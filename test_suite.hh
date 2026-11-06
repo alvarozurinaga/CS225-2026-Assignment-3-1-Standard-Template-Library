@@ -360,7 +360,7 @@ namespace Tests
             SUCCEED();
         }
         
-        #endif        
+        #endif    
 
         #ifdef ENABLE_TEST13
 
